@@ -1,0 +1,18 @@
+LIBRARY "CB_WriteLog"
+EXPORTS
+	Instance @1
+	Init @2
+	WriteLog @3
+	RegistMod @4
+	WriteLogHEX @5
+	GetLogFromFile @6
+	StopThread @7
+	GetLogFromDB @11
+	GetCurrentSystemTime @12
+	GetSystemDay @13
+	GetLogPath @14
+	GetLogDelimiter @15
+	GetLogDBStr @16
+	GetLogLevel @17
+	GetLogSaveDays @18
+	GetLogBufferSize @19
